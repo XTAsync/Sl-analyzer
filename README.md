@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Sl-analyzer logo" width="180" />
+</p>
+
 # Smart Shopping Analyzer
 
 A lightweight shopping-list analysis tool for editing item prices, generating estimated price ranges, and comparing each entered price against those ranges.
